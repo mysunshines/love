@@ -1,6 +1,7 @@
 <?php
 
-public class IndexController{
+
+class IndexController{
 	function __construct(){
 
 	}
